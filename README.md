@@ -2,6 +2,12 @@
 =====
 Cheaper Waystones
 =====
-A minecraft datapack to add cheaper crafting recipes for BlayTheNinth's waystone mod
+A Minecraft Java datapack to add cheaper crafting recipes for BlayTheNinth's Waystones mod
 
-Waystones: https://modrinth.com/mod/waystones
+Craft waystones with ender pearls instead of warp stones!
+
+Links
+=====
+Waystones Mod: https://modrinth.com/mod/waystones
+
+Recipe Datapack Creator: https://misode.github.io/recipe/
