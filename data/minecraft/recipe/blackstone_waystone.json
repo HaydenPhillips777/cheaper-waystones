@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "waystone",
+  "key": {
+    "#": {
+      "item": "minecraft:blackstone"
+    },
+    "o": {
+      "item": "minecraft:obsidian"
+    },
+    "e": {
+      "item": "minecraft:ender_pearl"
+    }
+  },
+  "pattern": [
+    " # ",
+    "#e#",
+    "ooo"
+  ],
+  "result": {
+    "count": 1,
+    "id": "waystones:blackstone_waystone"
+  }
+}
